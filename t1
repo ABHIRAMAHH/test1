@@ -2,9 +2,13 @@
 main()
 {
   add();
+{
+    printf("addition of a and b is %d",sum);
+}
   sub();
   mul();
   div();
+  
 }
 
   
