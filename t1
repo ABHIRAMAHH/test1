@@ -10,6 +10,9 @@ main()
     printf("substraction of a and b is %d,sub");
 }
   mul();
+{
+   printf(multiplication of a and b is %d,mul);
+}
   div();
   
 }
