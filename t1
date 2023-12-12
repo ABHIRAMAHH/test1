@@ -6,6 +6,9 @@ main()
     printf("addition of a and b is %d",sum);
 }
   sub();
+{
+    printf("substraction of a and b is %d,sub");
+}
   mul();
   div();
   
